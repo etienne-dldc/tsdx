@@ -162,7 +162,8 @@
         "example",
         "ideas",
         "question",
-        "review"
+        "review",
+        "test"
       ]
     },
     {
@@ -191,6 +192,55 @@
       "name": "Kristofer Giltvedt Selbekk",
       "avatar_url": "https://avatars1.githubusercontent.com/u/1307267?v=4",
       "profile": "https://www.selbekk.io",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "tricoder42",
+      "name": "Tomáš Ehrlich",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/827862?v=4",
+      "profile": "https://tomasehrlich.cz",
+      "contributions": [
+        "bug",
+        "code"
+      ]
+    },
+    {
+      "login": "kyle-johnson",
+      "name": "Kyle Johnson",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1007162?v=4",
+      "profile": "https://github.com/kyle-johnson",
+      "contributions": [
+        "bug",
+        "code"
+      ]
+    },
+    {
+      "login": "etienne-dldc",
+      "name": "Etienne Dldc",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/14336608?v=4",
+      "profile": "http://www.etiennedeladonchamps.fr/",
+      "contributions": [
+        "bug",
+        "code",
+        "test"
+      ]
+    },
+    {
+      "login": "fknop",
+      "name": "Florian Knop",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/6775689?v=4",
+      "profile": "https://github.com/fknop",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "gndelia",
+      "name": "Gonzalo D'Elia",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/352474?v=4",
+      "profile": "https://github.com/gndelia",
       "contributions": [
         "code"
       ]
